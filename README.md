@@ -2,7 +2,7 @@
 
  ## I am an aspiring Software Engineer and Developer 
  ## English level - b2/c1 
- ## A student of Business Informatics at the Higher School of Economics
+ ## Student of Business Informatics at the Higher School of Economics
 
 
 ### Latest works/projects
