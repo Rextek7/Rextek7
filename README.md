@@ -1,16 +1,14 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/113045888/225012314-26b17ec9-175c-4327-9d1c-a2d4e928e280.png)
 
-<!--
-**Rextek7/Rextek7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## I am an aspiring Software Engineer and Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Latest works/projects
+
+### Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo-python)
+![Java](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo-java)
+![Sql](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo-mysql)
+  
+Follow me
