@@ -14,3 +14,6 @@ Latest works/projects
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Fostick)
 [![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/rextek)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rextek7&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
