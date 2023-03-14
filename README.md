@@ -1,9 +1,11 @@
 ![image](https://user-images.githubusercontent.com/113045888/225022065-65d03a62-1b6c-47c4-ba49-1b91ad8f60bf.png)
 
- ## I am an aspiring Software Engineer and Developer
+ ## I am an aspiring software engineer and developer 
+ ## My English level is b2/c1 
+ ## I am currently a student of Business Informatics at the Higher School of Economics
 
 
-Latest works/projects
+### Latest works/projects
 
 ### Languages and Tools:
 
