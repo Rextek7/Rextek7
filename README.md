@@ -1,4 +1,4 @@
-[![image](https://user-images.githubusercontent.com/113045888/225012314-26b17ec9-175c-4327-9d1c-a2d4e928e280.png)](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
+https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif
 
  ## I am an aspiring Software Engineer and Developer
 
