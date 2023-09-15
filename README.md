@@ -6,9 +6,10 @@
 
 
 ## Latest works/projects:
-### Parsing database from xml file to Excel using Python/VBA
-### Database Design (Creating Conceptual, Logical and Physical Models) in MySQL
-### Creating a QT interface for working with a database in Python
+### Parsing database from xml file to Excel using Python/VBA 
+### Database Design (Creating Conceptual, Logical and Physical Models) in MySQL (https://github.com/Rextek7/Database-design)
+### Creating a QT interface for working with a database in Python (https://github.com/Rextek7/QT-interface)
+
 
 
 ### Languages and Tools:
