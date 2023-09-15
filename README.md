@@ -6,6 +6,10 @@
 
 
 ### Latest works/projects
+# 1) Parsing database from xml file to Excel using Python/VBA
+# 2) Database Design (Creating Conceptual, Logical and Physical Models) in MySQL
+# 3) Creating a QT interface for working with a database in Python
+
 
 ### Languages and Tools:
 
