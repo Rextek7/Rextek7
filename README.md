@@ -5,10 +5,10 @@
  ## Student of Business Informatics at the Higher School of Economics
 
 
-### Latest works/projects
-# Parsing database from xml file to Excel using Python/VBA
-# Database Design (Creating Conceptual, Logical and Physical Models) in MySQL
-# Creating a QT interface for working with a database in Python
+## Latest works/projects:
+### Parsing database from xml file to Excel using Python/VBA
+### Database Design (Creating Conceptual, Logical and Physical Models) in MySQL
+### Creating a QT interface for working with a database in Python
 
 
 ### Languages and Tools:
