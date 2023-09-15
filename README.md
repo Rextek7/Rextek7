@@ -15,7 +15,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=F8C52C)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=F88C00)
-![Sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
+![MYSql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
   
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Fostick)
