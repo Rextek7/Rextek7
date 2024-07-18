@@ -6,12 +6,12 @@
 
 
 ## Latest works/projects:
-### Parsing database from xml file to Excel using Python/VBA 
-### (https://github.com/Rextek7/Parsing-xml-file-in-Excel)
-### Database Design (Creating Conceptual, Logical and Physical Models) in MySQL 
-### (https://github.com/Rextek7/Database-design)
-### Creating a QT interface for working with a database in Python 
-### (https://github.com/Rextek7/QT-interface)
+### HR Database filled with tested data
+### (https://github.com/Rextek7/HR-Database)
+### Telegram Bot for trading education
+### (https://github.com/Rextek7/Invest-Bot)
+### Weather analysis according to gismeteo website 
+### (https://github.com/Rextek7/Weather-data-analysis)
 
 
 
